@@ -23,7 +23,7 @@ def word_space():
     signal(7 * speed, '')
 morse_code = { 
     
-    'A': [dot, dash],
+    'A': [dot, dash],  
     'B': [dash, dot, dot, dot],
     'C': [dash, dot, dash, dot],
     'D': [dash, dot, dot],
