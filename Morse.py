@@ -11,7 +11,7 @@ def dot():
 
 
 def dash():
-    signal(3 * speed, '−\a')
+    signal(3 * speed, '−\a') 
 
 def symbol_space():
     signal(speed, '')
