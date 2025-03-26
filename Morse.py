@@ -9,6 +9,7 @@ def signal(duration, symbol):
 def dot():
     signal(speed, '·\a')
 
+
 def dash():
     signal(3 * speed, '−\a')
 
