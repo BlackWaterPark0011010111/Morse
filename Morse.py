@@ -17,7 +17,7 @@ def symbol_space():
     signal(speed, '')
 
 def letter_space():
-    signal(3 * speed, '')
+    signal(3 * speed, '') 
 
 def word_space():
     signal(7 * speed, '')
