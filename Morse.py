@@ -31,7 +31,7 @@ morse_code = {
     'F': [dot, dot, dash, dot],
     'G': [dash, dash, dot],
     'H': [dot, dot, dot, dot],
-    'I': [dot, dot],
+    'I': [dot, dot], 
     'J': [dot, dash, dash, dash],
     'K': [dash, dot, dash],
     'L': [dot, dash, dot, dot],
