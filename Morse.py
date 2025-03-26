@@ -21,7 +21,7 @@ def letter_space():
 
 def word_space():
     signal(7 * speed, '')
-morse_code = {
+morse_code = { 
     
     'A': [dot, dash],
     'B': [dash, dot, dot, dot],
