@@ -1,6 +1,6 @@
 from time import sleep
 
-speed = 0.1
+speed = 0.1 
 
 def signal(duration, symbol):
     sleep(duration)
