@@ -5,7 +5,7 @@ def log_function(func):
     return wrapper
 
 
-
+ 
 @log_function
 def say_hello():
     print("Hello, World!")
